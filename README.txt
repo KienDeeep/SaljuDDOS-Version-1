@@ -5,4 +5,5 @@ You can Get the Port from : https://mcsrvstat.us/ Click on Debug Info and u will
 BTW The Minecraft Default Port is 25565
 Bedrock Server DDOS is Not Supported yet.
 
-Created by Habope.
+DO NOT DDOS SMALL MINECRAFT SERVERS.
+USE THIS FOR P2W SERVERS.
