@@ -3,6 +3,7 @@ python SaljuDDOS.py -s <IP> -p <PORT> -t 135
 Requires :
 = Python 3.9
 = Smart Brains
+= High End Network 1GBPS Better.
 
 Add the IP & Port Without the "<" & ">"
 You can Get the Port from : https://mcsrvstat.us/ Click on Debug Info and u will se the port :)
@@ -11,5 +12,3 @@ Bedrock Server DDOS is Not Supported yet.
 
 DO NOT DDOS SMALL MINECRAFT SERVERS.
 USE THIS FOR P2W SERVERS.
-
-
