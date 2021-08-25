@@ -28,7 +28,8 @@ You are not prohibited to DDoS ing Our servers
 We Collect This Informations :
 Users | 
  What Servers that you DDoS
-**Breaking the ToS We Will Report you to authorities.**
+ 
+### **Breaking the ToS We Will Report you to authorities.**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
